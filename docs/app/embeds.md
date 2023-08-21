@@ -68,7 +68,7 @@ The embed link you generate won't include the necessary parameters yet, even if 
 
 We are working on automating this, but for now you'll need to manually prefix the parameter link with the parameters:
 
-`link?[name_of_parameter_1]=[xxxx]&?[name_of_parameter_2]=[yyyy]&[...]`
+`link?[name_of_parameter_1]=[xxxx]&[name_of_parameter_2]=[yyyy]&[...]`
 
 Here is a working example:
 ```
