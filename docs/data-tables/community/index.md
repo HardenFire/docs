@@ -18,14 +18,14 @@ We are still building out the infrastructure for this endeavor and can therefore
 
     Flashbots is a research and development organization formed to mitigate the negative externalities and existential risks posed by miner-extractable value (MEV) to smart-contract blockchains.  
     
-    [:octicons-arrow-right-24: Flashbots](flashbots/index.md)
+    [→ Flashbots](flashbots/index.md)
 
 -   #### Reservoir
 
     ---
 
-   Reservoir is a developer platform that lets you interact with the NFT market using a single toolkit. Reservoir uploads additional NFT data to Dune.  
+    Reservoir is a developer platform that lets you interact with the NFT market using a single toolkit. Reservoir uploads additional NFT data to Dune.  
     
-    [:octicons-arrow-right-24: Reservoir](reservoir/index.md)
+    [→ Reservoir](reservoir/index.md)
     
 </div>
